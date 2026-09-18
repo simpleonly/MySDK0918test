@@ -12,7 +12,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MyLibrary",
-            url: "https://github.com/simpleonly/MySDK0918test/releases/download/1.0.2/MyLibrary.zip",
+            url: "https://github.com/simpleonly/MySDK0918test/releases/download/1.0.3/MyLibrary.zip",
             checksum: "8e19691970312c706bc84b5771c285eb1d3c4ea1a31e1f02b6d01cd162570f13"
         )
     ]
